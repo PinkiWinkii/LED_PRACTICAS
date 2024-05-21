@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "expres": "^0.0.5",
     "express": "^4.19.2",
-    "mqtt": "^5.6.0"
+    "fs": "^0.0.1-security",
+    "mqtt": "^5.6.1",
+    "sharp": "^0.33.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
